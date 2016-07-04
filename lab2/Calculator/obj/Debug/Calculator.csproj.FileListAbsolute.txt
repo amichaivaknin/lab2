@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\Calculator\obj\Debug\Calculator.pdb

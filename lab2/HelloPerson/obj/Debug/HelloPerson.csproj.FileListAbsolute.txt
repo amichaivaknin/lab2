@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb

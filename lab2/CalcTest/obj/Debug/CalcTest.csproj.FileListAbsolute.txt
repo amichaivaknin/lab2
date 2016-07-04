@@ -1,0 +1,7 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\bin\Debug\CalcTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\bin\Debug\CalcTest.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\bin\Debug\Calculator.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\bin\Debug\Calculator.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\obj\Debug\CalcTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\CalcTest\obj\Debug\CalcTest.pdb

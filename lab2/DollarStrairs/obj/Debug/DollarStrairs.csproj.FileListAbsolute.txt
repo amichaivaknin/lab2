@@ -1,0 +1,5 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\DollarStrairs\bin\Debug\DollarStrairs.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\DollarStrairs\bin\Debug\DollarStrairs.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\DollarStrairs\bin\Debug\DollarStrairs.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\DollarStrairs\obj\Debug\DollarStrairs.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\DollarStrairs\obj\Debug\DollarStrairs.pdb
