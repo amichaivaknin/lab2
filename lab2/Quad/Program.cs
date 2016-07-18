@@ -20,7 +20,9 @@ namespace Quad
 
             for (int i = 0; i < 3; i++)
             {
-                if (double.TryParse(args[i], out vals[i])) continue;
+                if (double.TryParse(args[i], out vals[i]))
+                    //It's better to add braces, even for onelines. This is the convention in C#
+                    continue;
                 Console.WriteLine("wrong parameter in place " + i);
                 return;
             }

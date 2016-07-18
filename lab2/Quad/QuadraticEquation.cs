@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quad
 {
+    //It was a good idea to exctract this code to a new class!
     public class QuadraticEquation
     {
         
@@ -13,6 +14,8 @@ namespace Quad
         {
             double sqrtpart = b * b - 4 * a * c;
             double x1;
+
+            //It isn't a good idea to add prints to your calculation logic.
 
             if (sqrtpart < 0)
             {
@@ -23,6 +26,8 @@ namespace Quad
             if ((int)sqrtpart == 0 )
             {
                 x1 = (-b + System.Math.Sqrt(sqrtpart)) / (2 * a);
+
+                //Consider using formats. In this case you could have write Console.WriteLine("One Solution {0}", x1);
                 Console.WriteLine("One Solution : " + x1);
                 return 1;
             }
