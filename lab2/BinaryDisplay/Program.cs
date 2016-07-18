@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BinaryDisplay
 {
+    //Unit tests should be in the same solution...not in other one dedicated only for them.
     class Program
     {
         static void Main(string[] args)
