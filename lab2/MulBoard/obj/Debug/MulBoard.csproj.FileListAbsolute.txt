@@ -1,0 +1,5 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\MulBoard\obj\Debug\MulBoard.pdb
