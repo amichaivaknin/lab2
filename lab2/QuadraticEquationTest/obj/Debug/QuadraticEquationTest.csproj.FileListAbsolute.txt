@@ -1,0 +1,8 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\bin\Debug\QuadraticEquationTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\bin\Debug\QuadraticEquationTest.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\bin\Debug\Quad.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\bin\Debug\Quad.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\obj\Debug\QuadraticEquationTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\obj\Debug\QuadraticEquationTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\HelloPerson\QuadraticEquationTest\obj\Debug\QuadraticEquationTest.pdb
