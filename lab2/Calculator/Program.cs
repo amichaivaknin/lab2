@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
+    //You have good UnitTests. Though they should be in a different project but in the same solution. 
     class Program
     {
         //No unit tests
