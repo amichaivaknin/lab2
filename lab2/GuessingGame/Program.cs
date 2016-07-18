@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuessingGame
 {
+    //It would have be better to seperate some of the logic into different methods
     class Program
     {
         static void Main(string[] args)
@@ -16,9 +17,11 @@ namespace GuessingGame
 
             var secret = new Random().Next(1, 101);
 
+            //You could have used a for loop. Could have been easier to count
             while (count <= 7)
             {
                 int num;
+
                 Console.WriteLine("you have " + (7-count+1) +" guesses");
                 if (int.TryParse(Console.ReadLine(), out num))
                 {
