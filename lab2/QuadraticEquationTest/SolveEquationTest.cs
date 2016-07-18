@@ -4,6 +4,7 @@ using Quad;
 
 namespace QuadraticEquationTest
 {
+    //You could have added Unit Tests
     [TestClass]
     public class SolveEquationTest
     {
