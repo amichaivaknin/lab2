@@ -8,14 +8,20 @@ namespace Calculator
 {
     class Program
     {
+        //No unit tests
+        //Consider seperating some logics like input and input validation into other seperate methods.
         static void Main(string[] args)
         {
             Calc calc = new Calc();
             Console.WriteLine("Enter tow double numbers and operator");
             Console.WriteLine("For example 1 + 2");
             string str=Console.ReadLine();
+
+            //usually in C# the body of if/else is always in a new line and is always has braces.
             if (str == null) return;
             string[] op = str.Split(' ');
+
+            //No input validation
             double num1 = double.Parse(op[0]);
             double num2 = double.Parse(op[2]);
             char opr = char.Parse(op[1]);
